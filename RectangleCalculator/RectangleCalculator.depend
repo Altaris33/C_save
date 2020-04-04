@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563484034 source:c:\users\jerem\documents\epsi-jlaera\udemy\c programming\c programmes\rectanglecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+num 1 = 10L
+num 2 = 11L
+
+*pNum = 10L
+*pNum + num 2 = 21L
+
+ 
